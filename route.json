@@ -1,0 +1,66 @@
+{
+  "routes": [
+    {
+      "title": "Fullstack web dasturchi",
+      "description": "Ko'p qirrali dasturchi"
+    },
+    {
+      "title": "Frontend dasturchi",
+      "description": "Frontend bilan ishlaydigan dasturchi"
+    },
+    {
+      "title": "Backend dasturchi",
+      "description": "Backend bilan ishlaydigan dasturchi"
+    },
+    {
+      "title": "Wordpress dasturchi",
+      "description": "Qiynalgan dasturchi"
+    },
+    {
+      "title": "IOS dasturchi",
+      "description": "Apple mahsulotlari bilan ishlaydigan dasturchi"
+    },
+    {
+      "title": "Android dasturchi",
+      "description": "Android operatsion sistemasi bilan ishlaydigan dasturchi"
+    },
+    {
+      "title": "Flutter dasturchi",
+      "description": "Apple va Android qurilmalar bilan bir vaqtda ishlaydigan dasturchi"
+    },
+    {
+      "title": "Grafik dizayner",
+      "description": "Smm postlar qiladigan dizayner"
+    },
+    {
+      "title": "UI/UX dizayner",
+      "description": "Telefon, Planshet va Kompyuterlarga dizayn qiladigan inson"
+    }
+  ],
+  "levels": [
+    {
+      "title": "Junior",
+      "description": "Yangi endi boshlagan dasturchi"
+    },
+    {
+      "title": "Srtong Junior dasturchi",
+      "description": "Ozgina tajribaga ega dasturchi"
+    },
+    {
+      "title": "Middle dasturchi",
+      "description": "Qo'lidan ko'p narsa keladigan dasturchi"
+    },
+    {
+      "title": "Strong Middle dasturchi",
+      "description": "Kuchli dasturchi"
+    },
+    {
+      "title": "Senior dasturchi",
+      "description": "Juda kuchli dasturchi"
+    },
+    {
+      "title": "Strong Senior yoki Team Lead dasturchi",
+      "description": "QIROL"
+    }
+  ]
+}

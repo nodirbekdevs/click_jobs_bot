@@ -1,0 +1,22 @@
+{
+  "name": "click_bot",
+  "version": "1.0.0",
+  "description": "Bot for Click Jobs telegram channel",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "start": "node index.js",
+    "server": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.2.7",
+    "node-telegram-bot-api": "^0.56.0",
+    "nodemon": "^2.0.15",
+    "png-js": "^1.0.0",
+    "sharp": "^0.30.3"
+  }
+}
